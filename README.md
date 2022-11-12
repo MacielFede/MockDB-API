@@ -1,20 +1,20 @@
 
 # MockDB-API
 
-The porpouse of this project was to learn a bit about the 
-differents operations we can do with the fetch API in JavaScript.
+The objective of this project was to learn a little about the
+different operations we can do with the fetch API in JavaScript.
 
-The database where all the users are registered it's a mock database
-from https://mockapi.io/ .
+The database where all users are registered is a simulated database.
+from https://mockapi.io/.
 
-Escentially we can do 4 operations:
+Essentially we can do 4 operations:
 
-- Search users: Indicating the ID of the users the app will search for it in the DB.
-    If there's no ID indicated, it will display a list of all the users registered at the time.
-- Create a new user: Creates a new user in the DB with an automatic ID, the firstname and lastname
+- Search for users: Indicating the user's ID, the app will search for it in the database.
+    If no ID is specified, it will display a list of all currently registered users.
+- Create a new user: Create a new user in the database with an automatic ID, name and surname
     are indicated by the user.
-- Modify an existing user: Modifies the firstname, the lastname or both of a certain user indicated by it's ID.
-- Delete of a user: Deletes from the DB the user indicated by it's ID.
+- Modify an existing user: Modify the name, surname or both of a specific user indicated by their ID.
+- Deleting a user: Deletes the user indicated by their ID from the database.
 
 ## Feedback
 
