@@ -4,8 +4,7 @@
 The objective of this project was to learn a little about the
 different operations we can do with the fetch API in JavaScript.
 
-The database where all users are registered is a simulated database.
-from https://mockapi.io/.
+The database where all users are registered is a simulated database from https://mockapi.io/.
 
 Essentially we can do 4 operations:
 
